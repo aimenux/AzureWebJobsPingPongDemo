@@ -1,6 +1,6 @@
 [![.NET](https://github.com/aimenux/PingPongAzureWebjobsDemo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimenux/PingPongAzureWebjobsDemo/actions/workflows/ci.yml)
 
-# PingPongAzureWebjobsDemo
+# PingPongAzureWebJobsDemo
 ```
 Playing ping pong with azure webjobs
 ```
